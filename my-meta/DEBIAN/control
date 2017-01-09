@@ -6,7 +6,7 @@ Architecture: all
 Maintainer: Jakobus Schürz <xundeenergie@gmail.com>
 Homepage: http://github.com/xundeenergie/my-meta
 Provides: my-meta
-Depends: mkbackup-btrfs, my-config, fvwm-verve, systemd-alt-cron, libreoffice-cups, network-manager-customsettings, my-services, fuse-cups
+Depends: mkbackup-btrfs, my-config, systemd-alt-cron, libreoffice-cups, network-manager-customsettings, my-services, fuse-cups
 Recommends: 
 Description: My configurations - Meta-Package
  Special configurations for this and that around in linux, for jakob schürz
